@@ -2,6 +2,13 @@ body {
   /* background-color: rgb(220, 255, 196);
    */
 }
+#body {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(210, 209, 209);
+  margin: 0%;
+  padding: 0%;
+}
 #container {
   /* background-color: blueviolet; */
   width: 100%;
@@ -9,8 +16,11 @@ body {
   align-items: center;
   flex-direction: column;
   margin-top: 50px;
-  margin-right: 250px;
-  margin-left: px;
+
+  background-color: white;
+  width: 583px;
+  padding-top: 15px;
+  border-radius: 25px;
 }
 .twitter-logo {
   display: block;
@@ -66,6 +76,7 @@ h1 {
 }
 .btn2 {
   text-align: center;
+  margin-bottom: 150px;
 }
 .btn2 button {
   margin-top: 25px;
