@@ -1,0 +1,63 @@
+body {
+  background-color: aqua;
+}
+.twitter-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+.google-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  background-color: white;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.apple-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  background-color: white;
+  margin-top: 25px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.textbox {
+  text-align: center;
+  padding: 30px;
+}
+.btn1 {
+  text-align: center;
+}
+.btn1 button {
+  padding: 10px 113px;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+}
+.btn2 {
+  text-align: center;
+}
+.btn2 button {
+  margin-top: 25px;
+  padding: 10px 74px;
+  border-radius: 25px;
+  color: black;
+  font-weight: bold;
+}
