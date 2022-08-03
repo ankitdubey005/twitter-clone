@@ -1,5 +1,16 @@
 body {
-  background-color: aqua;
+  /* background-color: rgb(220, 255, 196);
+   */
+}
+#container {
+  /* background-color: blueviolet; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-right: 250px;
+  margin-left: px;
 }
 .twitter-logo {
   display: block;
@@ -9,6 +20,7 @@ body {
 h1 {
   text-align: center;
   font-family: sans-serif;
+  margin-bottom: 30px;
 }
 .google-button {
   display: block;
@@ -35,6 +47,7 @@ h1 {
   align-items: center;
   font-weight: bold;
 }
+
 .textbox {
   text-align: center;
   padding: 30px;
